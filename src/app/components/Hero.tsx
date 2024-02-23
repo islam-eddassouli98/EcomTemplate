@@ -12,7 +12,7 @@ const Hero = (props: Props) => {
   return (
     <div className="w-screen h-screen" style={backgroundImageStyle}>
       <span className='w-full h-full text-white flex items-start justify-end flex-col gap-4'>
-      <h1 className='text-6xl font-bold mx-5'>NEW COLLECTION</h1>
+      <h1 className='text-6xl font-bold mx-5'>NEW COLLECTIONS</h1>
       <h3 className='text-4xl font-bold mx-5' >Shop the world inside our new collection</h3>
       <button className='rounded-full border border-white p-3 mx-5 mb-7 font-bold'>Shop Now</button>
       </span>
